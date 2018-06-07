@@ -1,5 +1,5 @@
 # SurveyDataset
-Raw unprocessed response sheet from the visualization survey for biodiversity users
+Raw unprocessed response sheets from the visualization survey for biodiversity users
 Preview survey link: https://tinyurl.com/yb2ysyuu
 
 Paper presented in Euroivis 2018 at Brno
